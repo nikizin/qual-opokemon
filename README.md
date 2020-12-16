@@ -2,7 +2,7 @@
 Trabalho para a matéria de Tópicos Integrados
 
 ##Tecnologias
-JQuery
-Javascript
-HTML
-CSS
+- JQuery
+- Javascript
+- HTML
+- CSS
